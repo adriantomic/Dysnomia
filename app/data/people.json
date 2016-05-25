@@ -1,0 +1,470 @@
+[
+  {
+  	"id": "B8F793D2-BEF6-46FD-A4D2-ABD232B9BE25",
+	"uptime": 10,
+    "img": "http://doberman.se/system/galleryitems/103/original/nina_lind.jpg",
+    "name": "Nina Lind"
+  },
+  {
+  	"id": "869E5F7E-5ECE-4615-8CC5-8B6C86CB8035",
+	"uptime": 11,
+    "img": "http://doberman.se/system/galleryitems/375/original/karl.jpg",
+    "name": "Karl Sandgren"
+  },
+  {
+  	"id": "2ED4A758-1F52-40A3-9049-2D66B5E3DDAC",
+	"uptime": 12,
+    "img": "http://doberman.se/system/galleryitems/352/original/Elinore%20Brand%C3%A9n.jpg",
+    "name": "Elinore Brandén"
+  },
+  {
+  	"id": "4023F190-209B-48E8-AF2A-D2A0A8CD0DEC",
+	"uptime": 13,
+    "img": "http://doberman.se/system/galleryitems/447/original/Jennifer.png",
+    "name": "Jennifer Fernandez"
+  },
+  {
+  	"id": "88C7FC62-8033-4913-B1F4-B34775FC41A5",
+	"uptime": 14,
+    "img": "http://doberman.se/system/galleryitems/403/original/erik2.jpg",
+    "name": "Erik Lindebratt"
+  },
+  {
+  	"id": "23805044-1E0C-480B-85F4-9A4953D41A4D",
+	"uptime": 15,
+    "img": "http://doberman.se/system/galleryitems/325/original/db-johan-str.jpg",
+    "name": "Johan Strömgren"
+  },
+  {
+  	"id": "82CF3F9C-2F7F-4D0B-B8A5-658DCE02AF5E",
+	"uptime": 16,
+    "img": "http://doberman.se/system/galleryitems/464/original/totte.jpg",
+    "name": "Kristofer Agermark"
+  },
+  {
+  	"id": "72E6AC04-DC13-4E2C-A08B-A4106A3E32C5",
+	"uptime": 17,
+    "img": "http://doberman.se/system/galleryitems/413/original/bjarne_220x220.jpg",
+    "name": "Bjarne Melin"
+  },
+  {
+  	"id": "3348378A-3731-4E3E-B6FA-84E32DB0036E",
+	"uptime": 18,
+    "img": "http://doberman.se/system/galleryitems/384/original/Magnus%20Bergmarksmall.jpg",
+    "name": "Magnus Bergmark"
+  },
+  {
+  	"id": "368C64F6-7EFC-41E0-9A28-B19C4541B56C",
+	"uptime": 19,
+    "img": "http://doberman.se/system/galleryitems/312/original/hanna_oquist.jpg",
+    "name": "Hanna Öquist"
+  },
+  {
+  	"id": "2EFEBBFE-07A3-42C9-9B43-D2551FB87CED",
+	"uptime": 20,
+    "img": "http://doberman.se/system/galleryitems/391/original/jacobgunarsson.jpg",
+    "name": "Jacob Gunnarsson"
+  },
+  {
+  	"id": "63B9E457-3C27-487F-85C7-1E2EB8071FC1",
+	"uptime": 21,
+    "img": "http://doberman.se/system/galleryitems/402/original/IMG_0033.JPG",
+    "name": "Gunilla Boström"
+  },
+  {
+  	"id": "A42DB1D7-BAEE-4018-B3D7-DA6190242E1F",
+	"uptime": 22,
+    "img": "http://doberman.se/system/galleryitems/76/original/peterlindkvist.jpg",
+    "name": "Peter Lindkvist"
+  },
+  {
+  	"id": "D72A9A5D-1C5E-4752-8CFF-039E3A91AC69",
+	"uptime": 23,
+    "img": "http://doberman.se/system/galleryitems/475/original/johnwolst.jpg",
+    "name": "John Wolst"
+  },
+  {
+  	"id": "04279390-0311-46C0-8287-922F46D88ADF",
+	"uptime": 24,
+    "img": "http://doberman.se/system/galleryitems/397/original/robert-1.jpg",
+    "name": "Robert Lindgren"
+  },
+  {
+  	"id": "2936A275-0FBB-472F-A80E-A6E1423D4A10",
+	"uptime": 25,
+    "img": "http://doberman.se/system/galleryitems/468/original/klaraleander.jpg",
+    "name": "Klara Leander"
+  },
+  {
+  	"id": "D6B04179-B048-4194-B1A0-917178975B50",
+	"uptime": 26,
+    "img": "http://doberman.se/system/galleryitems/506/original/rob%20(1).jpg",
+    "name": "Robin Karlsson"
+  },
+  {
+  	"id": "BFDC034E-B107-433F-986E-1929DE88A0B8",
+	"uptime": 27,
+    "img": "http://doberman.se/system/galleryitems/460/original/ulrikaroth.jpg",
+    "name": "Ulrika Roth"
+  },
+  {
+  	"id": "4202017E-1239-4CE6-90D9-C21EA672B204",
+	"uptime": 28,
+    "img": "http://doberman.se/system/galleryitems/493/original/DanielHagglundbw.jpg",
+    "name": "Daniel Hägglund"
+  },
+  {
+  	"id": "BFD1D12E-1371-4C8B-8855-1EB97BF7A864",
+	"uptime": 29,
+    "img": "http://doberman.se/system/galleryitems/522/original/henrik.jpg",
+    "name": "Henrik Bornhede"
+  },
+  {
+  	"id": "A53C1D37-F37C-4048-BFA4-5455630F128B",
+	"uptime": 30,
+    "img": "http://doberman.se/system/galleryitems/82/original/Therese.jpg",
+    "name": "Therese Björkqvist"
+  },
+  {
+  	"id": "89434EA6-73C6-4E00-ADF7-BEF5110864B2",
+	"uptime": 31,
+    "img": "http://doberman.se/system/galleryitems/528/original/sofieNilsson1.jpg",
+    "name": "Sofie Nilsson"
+  },
+  {
+  	"id": "665160BF-050B-41A2-9318-618A008550E3",
+	"uptime": 32,
+    "img": "http://doberman.se/system/galleryitems/387/original/Larsericsson.jpg",
+    "name": "Lars Ericsson"
+  },
+  {
+  	"id": "E645CAAA-6D0A-4548-ADBF-93B7404EE149",
+	"uptime": 33,
+    "img": "http://doberman.se/system/galleryitems/72/original/marith.jpg",
+    "name": "Marith Fält"
+  },
+  {
+  	"id": "75BE2BE8-3E8A-41D2-A333-D4276F2D9F4B",
+	"uptime": 34,
+    "img": "http://doberman.se/system/galleryitems/518/original/angelasperandiotillman.jpg",
+    "name": "Angela Tillman Sperandio"
+  },
+  {
+  	"id": "D00E6040-4F28-416E-8660-725E1BBA2812",
+	"uptime": 35,
+    "img": "http://doberman.se/system/galleryitems/151/original/johanb.jpg",
+    "name": "Johan Bernunger"
+  },
+  {
+  	"id": "D74E7144-206D-4825-B354-47203046DFF7",
+	"uptime": 36,
+    "img": "http://doberman.se/system/galleryitems/505/original/petter_silfver.png",
+    "name": "Petter Silfver"
+  },
+  {
+  	"id": "193B68B6-4623-4CA0-9711-083D7C7CADB6",
+	"uptime": 37,
+    "img": "http://doberman.se/system/galleryitems/470/original/patricia_richter.jpg",
+    "name": "Patricia Richter"
+  },
+  {
+  	"id": "2D7C281F-F06D-4C91-AD1D-9BBF6938733F",
+	"uptime": 38,
+    "img": "http://doberman.se/system/galleryitems/532/original/rebekka2.jpg",
+    "name": "Rebekka Quiroz Wiberg"
+  },
+  {
+  	"id": "A9ED52C8-93B5-4852-93CC-92DABB8AA41F",
+	"uptime": 39,
+    "img": "http://doberman.se/system/galleryitems/393/original/profilbild.jpg",
+    "name": "Kimmy Bolke"
+  },
+  {
+  	"id": "894C3A96-BFB9-4BF5-9209-6E3AE22E44E9",
+	"uptime": 40,
+    "img": "http://doberman.se/system/galleryitems/483/original/yvetteenglund.jpg",
+    "name": "Yvette Englund"
+  },
+  {
+  	"id": "50CDFC20-C86B-4A6A-B506-201F582010D7",
+	"uptime": 41,
+    "img": "http://doberman.se/system/galleryitems/101/original/erikalmenberg.jpg",
+    "name": "Erik Almenberg"
+  },
+  {
+  	"id": "3657E2D6-4746-4125-8CE3-7352F65DAF76",
+	"uptime": 42,
+    "img": "http://doberman.se/system/galleryitems/105/original/peter.jpg",
+    "name": "Peter Olofsson"
+  },
+  {
+  	"id": "1460B69F-5FA6-43B5-963D-0B82F5DBBDA2",
+	"uptime": 43,
+    "img": "http://doberman.se/system/galleryitems/68/original/lisa_lindstrom.jpg",
+    "name": "Lisa Lindström"
+  },
+  {
+  	"id": "02A90FF9-40DD-4D31-87B8-495F94CCA7B2",
+	"uptime": 44,
+    "img": "http://doberman.se/system/galleryitems/445/original/Nanna.png",
+    "name": "Nanna Bergh"
+  },
+  {
+  	"id": "FE63DCC6-B0E3-43AB-8813-D12C681B4188",
+	"uptime": 45,
+    "img": "http://doberman.se/system/galleryitems/399/original/image.png",
+    "name": "Thérèse Mannheimer"
+  },
+  {
+  	"id": "C149CB05-2EBA-47FE-B5D4-A22AD139D046",
+	"uptime": 46,
+    "img": "http://doberman.se/system/galleryitems/467/original/Phi.jpg",
+    "name": "Phi-Hong Ha"
+  },
+  {
+  	"id": "D88EC126-B84E-466E-A20D-7D8C26ECE118",
+	"uptime": 47,
+    "img": "http://doberman.se/system/galleryitems/469/original/abbe1.jpg",
+    "name": "Albert Cordenius"
+  },
+  {
+  	"id": "70F702D7-83EE-4A55-AE28-C88B578D759F",
+	"uptime": 48,
+    "img": "http://doberman.se/system/galleryitems/400/original/Kristina_Carlander.jpg",
+    "name": "Kristina Carlander"
+  },
+  {
+  	"id": "6520884F-29FF-4B3E-904E-63BB31B85F98",
+	"uptime": 49,
+    "img": "http://doberman.se/system/galleryitems/442/original/victormullerdoberman.jpg",
+    "name": "Victor Ginsburg Müller"
+  },
+  {
+  	"id": "B5F05B11-12FB-4A3B-8CBE-786F35C08D83",
+	"uptime": 50,
+    "img": "http://doberman.se/system/galleryitems/449/original/Hannes2.png",
+    "name": "Hannes Strassburg"
+  },
+  {
+  	"id": "74ABDD4E-2FBC-4A54-A6A2-8F56C8B12B33",
+	"uptime": 51,
+    "img": "http://doberman.se/system/galleryitems/515/original/vik.png",
+    "name": "Vik Sunkavalli"
+  },
+  {
+  	"id": "B9D73B57-A696-4ADD-9400-ED04F1414978",
+	"uptime": 52,
+    "img": "http://doberman.se/system/galleryitems/476/original/Joakim.jpg",
+    "name": "Joakim Oscarsson"
+  },
+  {
+  	"id": "B2169105-45F5-4EA6-A16C-35FDAFCF6D2E",
+	"uptime": 53,
+    "img": "http://doberman.se/system/galleryitems/60/original/johan_d.jpg",
+    "name": "Johan Dovelius"
+  },
+  {
+  	"id": "C414257F-A1BE-47B5-8943-ADD21E689BD9",
+	"uptime": 54,
+    "img": "http://doberman.se/system/galleryitems/57/original/jenny_p.jpg",
+    "name": "Jenny Pettersson Lindberg"
+  },
+  {
+  	"id": "42DFB0B0-FD2D-41B1-994D-D4DFF1177232",
+	"uptime": 55,
+    "img": "http://doberman.se/system/galleryitems/527/original/saraJohannesson1.jpg",
+    "name": "Sara Johannesson"
+  },
+  {
+  	"id": "1E19EF62-B8BF-469E-8357-60D0FD20D03B",
+	"uptime": 56,
+    "img": "http://doberman.se/system/galleryitems/44/original/anna.jpg",
+    "name": "Anna Esseen"
+  },
+  {
+  	"id": "69BFFB2F-E624-4BE0-A798-8543B604B241",
+	"uptime": 57,
+    "img": "http://doberman.se/system/galleryitems/152/original/maria_l.jpg",
+    "name": "Maria Lübeck"
+  },
+  {
+  	"id": "05EF07F0-14F4-4C50-8A9D-7A354348449B",
+	"uptime": 58,
+    "img": "http://doberman.se/system/galleryitems/227/original/toveblomgren.jpg",
+    "name": "Tove Blomgren"
+  },
+  {
+  	"id": "3424A5A3-C974-400A-96F8-DB8C3619C484",
+	"uptime": 59,
+    "img": "http://doberman.se/system/galleryitems/514/original/AlexandraReshem.jpg",
+    "name": "Alexandra Rashem"
+  },
+  {
+  	"id": "B70672A0-B83A-486B-A1F5-656A11C29EAF",
+	"uptime": 60,
+    "img": "http://doberman.se/system/galleryitems/54/original/herman.jpg",
+    "name": "Herman Carlsson"
+  },
+  {
+  	"id": "A818DE47-0B0E-4A7B-AC5F-0D34CB95818C",
+	"uptime": 61,
+    "img": "http://doberman.se/system/galleryitems/462/original/annastromberg.jpg",
+    "name": "Anna Strömberg"
+  },
+  {
+  	"id": "74ABEED0-DFF8-4FA5-90BC-15F655828B64",
+	"uptime": 62,
+    "img": "http://doberman.se/system/galleryitems/461/original/Richard_Sellgren.jpg",
+    "name": "Richard Sellgren"
+  },
+  {
+  	"id": "78A31DD5-E628-4838-992B-A11CF543DF45",
+	"uptime": 63,
+    "img": "http://doberman.se/system/galleryitems/378/original/Steinar.jpg",
+    "name": "Steinar Danielsen"
+  },
+  {
+  	"id": "1493E930-E40C-47B0-9228-CA1ECC9AFFA8",
+	"uptime": 64,
+    "img": "http://doberman.se/system/galleryitems/154/original/linnea_becker.jpg",
+    "name": "Linnéa Becker"
+  },
+  {
+  	"id": "C8384794-0001-4CED-92E1-AB76F2B5292C",
+	"uptime": 65,
+    "img": "http://doberman.se/system/galleryitems/485/original/sanna-wickman---2.jpg",
+    "name": "Sanna Wickman"
+  },
+  {
+  	"id": "E11147D5-43DC-4C66-8D42-CDEAFFC9DF5A",
+	"uptime": 66,
+    "img": "http://doberman.se/system/galleryitems/508/original/klas-440x440.jpg",
+    "name": "Klas Thorsén"
+  },
+  {
+  	"id": "6DBB96FA-6DDA-42BB-A2F2-7A6D8AFFF3D8",
+	"uptime": 67,
+    "img": "http://doberman.se/system/galleryitems/73/original/mattias.jpg",
+    "name": "Mattias Jonsson"
+  },
+  {
+  	"id": "32E10395-ADDA-47AA-8AEA-87546136E1E6",
+	"uptime": 68,
+    "img": "http://doberman.se/system/galleryitems/463/original/stinacarlssonreich.jpg",
+    "name": "Stina Carlsson Reich"
+  },
+  {
+  	"id": "1AF585E4-E236-4477-89B4-223ABFE1FB2D",
+	"uptime": 69,
+    "img": "http://doberman.se/system/galleryitems/452/original/Mel.png",
+    "name": "Melodie Sandström"
+  },
+  {
+  	"id": "B5851032-4143-4A4E-A2AC-E96532DBBD5B",
+	"uptime": 70,
+    "img": "http://doberman.se/system/galleryitems/58/original/jenslindkvist.jpg",
+    "name": "Jens Lindkvist"
+  },
+  {
+  	"id": "E94E49F7-9633-4D52-A124-8D5BCC738EA5",
+	"uptime": 71,
+    "img": "http://doberman.se/system/galleryitems/66/original/linda.jpg",
+    "name": "Linda Wegdell"
+  },
+  {
+  	"id": "56F6FF7B-2053-4F7C-9E9F-09063EF79250",
+	"uptime": 72,
+    "img": "http://doberman.se/system/galleryitems/484/original/MagnusKarlsson.jpg",
+    "name": "Magnus Karlsson"
+  },
+  {
+  	"id": "4312FCEA-49E6-4356-9E89-864E1A4B5B9A",
+	"uptime": 73,
+    "img": "http://doberman.se/system/galleryitems/45/original/elin.jpg",
+    "name": "Elin Ankerblad"
+  },
+  {
+  	"id": "2481C0CA-45A1-49DC-BE31-166C7D8AF3A4",
+	"uptime": 74,
+    "img": "http://doberman.se/system/galleryitems/516/original/petra.png",
+    "name": "Petra Farinha"
+  },
+  {
+  	"id": "392B44CC-F2B5-4C22-B802-710DA88D54CF",
+	"uptime": 75,
+    "img": "http://doberman.se/system/galleryitems/333/original/andersf.jpg",
+    "name": "Anders Frostenson"
+  },
+  {
+  	"id": "50560E9A-43EE-4BF6-ABA5-87BFD7E6F4D0",
+	"uptime": 76,
+    "img": "http://doberman.se/system/galleryitems/494/original/unnamed.png",
+    "name": "Hilary Persson"
+  },
+  {
+  	"id": "F94B1DB5-2DB2-4044-9EAC-A422A0485853",
+	"uptime": 77,
+    "img": "http://doberman.se/system/galleryitems/443/original/Emma.png",
+    "name": "Emma Laurentz"
+  },
+  {
+  	"id": "2872C4A3-4128-4355-A055-F312BFB627B0",
+	"uptime": 78,
+    "img": "http://doberman.se/system/galleryitems/55/original/ida.jpg",
+    "name": "Ida Lind"
+  },
+  {
+  	"id": "07156939-0AD6-4D51-A92D-179FC65698D4",
+	"uptime": 79,
+    "img": "http://doberman.se/system/galleryitems/48/original/gustavradstrom.jpg",
+    "name": "Gustav Rådström"
+  },
+  {
+  	"id": "BC8EFA51-5878-4060-97EA-7098CE441CB1",
+	"uptime": 80,
+    "img": "http://doberman.se/system/galleryitems/473/original/marianohlstrom.jpg",
+    "name": "Maria Nohlström"
+  },
+  {
+  	"id": "01D471B7-3082-461A-917F-B1A91CD12CDB",
+	"uptime": 81,
+    "img": "http://doberman.se/system/galleryitems/322/original/DavidE.jpg",
+    "name": "David Engzell"
+  },
+  {
+  	"id": "1503D18B-EAC2-47E4-AFE7-9CB491E8CEF1",
+	"uptime": 82,
+    "img": "http://doberman.se/system/galleryitems/525/original/henriksundqvist.jpg",
+    "name": "Henrik Sundqvist"
+  },
+  {
+  	"id": "23E31406-B791-4FCD-9573-F1D61ABCA3DF",
+	"uptime": 83,
+    "img": "http://doberman.se/system/galleryitems/52/original/henrik_k.jpg",
+    "name": "Henrik Karlsson"
+  },
+  {
+  	"id": "4227C3CC-9EC1-4167-B8D4-63AC500BA907",
+	"uptime": 84,
+    "img": "http://doberman.se/system/galleryitems/504/original/olofalenius.jpg",
+    "name": "Olof Ålenius"
+  },
+  {
+  	"id": "F8E81ECA-5A9E-439E-9D72-6AAA8430F121",
+	"uptime": 85,
+    "img": "http://doberman.se/system/galleryitems/359/original/Annika.jpg",
+    "name": "Annika Tersmeden"
+  },
+  {
+  	"id": "3630A3DF-A0FE-43ED-BD28-B59DDA6F4D81",
+	"uptime": 86,
+    "img": "http://doberman.se/system/galleryitems/482/original/katiemiller.jpg",
+    "name": "Katie Miller"
+  },
+  {
+  	"id": "4E6EA098-9408-4AAF-8353-00D488C9D3A5",
+	"uptime": 87,
+    "img": "http://doberman.se/system/galleryitems/486/original/elinaram.jpg",
+    "name": "Elin Aram"
+  }
+]
